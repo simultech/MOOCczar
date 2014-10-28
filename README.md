@@ -12,6 +12,8 @@ The Data Analytics Platform is a series of services which are used together to p
 2. UQx API - https://github.com/UQ-UQx/uqx_api
 3. Dashboard_JS - https://github.com/UQ-UQx/dashboard_js
 
+![Data Analytics Platform Overview](/README_data_analytics_platform_overview.png?raw=true "Data Analytics Platform Overview")
+
 Additionally, there is an ansible repository which can assist in installing and configuring all of the services.
 
 Course Report Generator
